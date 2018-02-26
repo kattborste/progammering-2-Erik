@@ -1,0 +1,5 @@
+S:\PRRPRR02\ELEVMAPPAR\Erik\kapitel 3\Övning 3.4\Övning 3.4\bin\Debug\Övning 3.4.exe.config
+S:\PRRPRR02\ELEVMAPPAR\Erik\kapitel 3\Övning 3.4\Övning 3.4\bin\Debug\Övning 3.4.exe
+S:\PRRPRR02\ELEVMAPPAR\Erik\kapitel 3\Övning 3.4\Övning 3.4\bin\Debug\Övning 3.4.pdb
+S:\PRRPRR02\ELEVMAPPAR\Erik\kapitel 3\Övning 3.4\Övning 3.4\obj\Debug\Övning 3.4.exe
+S:\PRRPRR02\ELEVMAPPAR\Erik\kapitel 3\Övning 3.4\Övning 3.4\obj\Debug\Övning 3.4.pdb

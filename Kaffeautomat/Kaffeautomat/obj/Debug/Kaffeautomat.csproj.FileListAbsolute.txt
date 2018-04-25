@@ -1,0 +1,9 @@
+S:\PRRPRR02\ELEVMAPPAR\Erik\Projekt kaffeautomat\Kaffeautomat\Kaffeautomat\bin\Debug\Kaffeautomat.exe.config
+S:\PRRPRR02\ELEVMAPPAR\Erik\Projekt kaffeautomat\Kaffeautomat\Kaffeautomat\obj\Debug\Kaffeautomat.csprojResolveAssemblyReference.cache
+S:\PRRPRR02\ELEVMAPPAR\Erik\Projekt kaffeautomat\Kaffeautomat\Kaffeautomat\obj\Debug\Kaffeautomat.Form1.resources
+S:\PRRPRR02\ELEVMAPPAR\Erik\Projekt kaffeautomat\Kaffeautomat\Kaffeautomat\obj\Debug\Kaffeautomat.Properties.Resources.resources
+S:\PRRPRR02\ELEVMAPPAR\Erik\Projekt kaffeautomat\Kaffeautomat\Kaffeautomat\obj\Debug\Kaffeautomat.csproj.GenerateResource.Cache
+S:\PRRPRR02\ELEVMAPPAR\Erik\Projekt kaffeautomat\Kaffeautomat\Kaffeautomat\bin\Debug\Kaffeautomat.exe
+S:\PRRPRR02\ELEVMAPPAR\Erik\Projekt kaffeautomat\Kaffeautomat\Kaffeautomat\bin\Debug\Kaffeautomat.pdb
+S:\PRRPRR02\ELEVMAPPAR\Erik\Projekt kaffeautomat\Kaffeautomat\Kaffeautomat\obj\Debug\Kaffeautomat.exe
+S:\PRRPRR02\ELEVMAPPAR\Erik\Projekt kaffeautomat\Kaffeautomat\Kaffeautomat\obj\Debug\Kaffeautomat.pdb

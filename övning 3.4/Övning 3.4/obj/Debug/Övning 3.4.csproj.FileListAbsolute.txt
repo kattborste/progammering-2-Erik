@@ -3,3 +3,9 @@ S:\PRRPRR02\ELEVMAPPAR\Erik\kapitel 3\Övning 3.4\Övning 3.4\bin\Debug\Övning 
 S:\PRRPRR02\ELEVMAPPAR\Erik\kapitel 3\Övning 3.4\Övning 3.4\bin\Debug\Övning 3.4.pdb
 S:\PRRPRR02\ELEVMAPPAR\Erik\kapitel 3\Övning 3.4\Övning 3.4\obj\Debug\Övning 3.4.exe
 S:\PRRPRR02\ELEVMAPPAR\Erik\kapitel 3\Övning 3.4\Övning 3.4\obj\Debug\Övning 3.4.pdb
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\övning 3.4\Övning 3.4\bin\Debug\Övning 3.4.exe.config
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\övning 3.4\Övning 3.4\obj\Debug\Övning 3.4.exe
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\övning 3.4\Övning 3.4\obj\Debug\Övning 3.4.pdb
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\övning 3.4\Övning 3.4\bin\Debug\Övning 3.4.exe
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\övning 3.4\Övning 3.4\bin\Debug\Övning 3.4.pdb
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\övning 3.4\Övning 3.4\obj\Debug\Övning 3.4.csprojResolveAssemblyReference.cache

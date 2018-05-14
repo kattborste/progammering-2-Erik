@@ -17,10 +17,10 @@ namespace Övning_3._4
 
             Kub kuben = new Kub();
             
-            kuben.Volym(sida);
+            kuben.Volym(sida); // Vi matar in sidans längd i volym- och ytberäkningarna
             kuben.Yta(sida);
             
-            Console.ReadKey();
+            Console.ReadKey(); // Programmet avslutas när du klickar på valfri knapp
 
         }
     }
@@ -28,7 +28,7 @@ namespace Övning_3._4
     {
         public void Volym(double sida)
         {
-            double volym = (Math.Pow(sida, 3));
+            double volym = (Math.Pow(sida, 3)); // Math.Pow = upphöjt med, dvs sidan^3
             Console.WriteLine("Kubens volym är " + volym);
         }
 

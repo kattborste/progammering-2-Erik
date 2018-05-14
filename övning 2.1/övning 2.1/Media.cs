@@ -8,7 +8,7 @@ namespace övning_2._1
 {
     class Media
     {
-        protected string titel = "";
+        protected string titel = ""; // alla medier har titel så det matas in härifrån istället för att lägga till en titel-del i varje del
 
         public Media(string titel)
         {

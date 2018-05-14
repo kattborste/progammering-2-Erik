@@ -11,13 +11,13 @@ namespace övning_2._1
         protected double speltidF;
         protected string upplösning;
 
-        public Film(string titel, double spelTid, string upplösning) : base(titel)
+        public Film(string titel, double spelTid, string upplösning) : base(titel) // Filmens titel, hur lång den är och vilken upplösning
         {
             this.speltidF = spelTid;
             this.upplösning = upplösning;
         }
 
-        public override string ToString()
+        public override string ToString() // Innehållet förbereds för upphämtning
         {
             return titel + ": " + speltidF + " minuter, " + upplösning;
         }

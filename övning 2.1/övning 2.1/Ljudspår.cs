@@ -10,12 +10,12 @@ namespace övning_2._1
     {
         protected double speltidL;
 
-        public Ljudspår(string titel, double speltidL) : base(titel)
+        public Ljudspår(string titel, double speltidL) : base(titel) // Ljudspårets titel och längd
         {
             this.speltidL = speltidL;
         }
 
-        public override string ToString()
+        public override string ToString( // Innehållet förbereds för upphämtning
         {
             return titel + ": " + speltidL + " minuter";
         }

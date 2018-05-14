@@ -7,3 +7,6 @@ S:\PRRPRR02\ELEVMAPPAR\Erik\extern kapitel 2\övning 2.1\övning 2.1\obj\Debug\�
 S:\PRRPRR02\ELEVMAPPAR\Erik\extern kapitel 2\övning 2.1\övning 2.1\obj\Debug\övning 2.1.csproj.GenerateResource.Cache
 S:\PRRPRR02\ELEVMAPPAR\Erik\extern kapitel 2\övning 2.1\övning 2.1\obj\Debug\övning 2.1.exe
 S:\PRRPRR02\ELEVMAPPAR\Erik\extern kapitel 2\övning 2.1\övning 2.1\obj\Debug\övning 2.1.pdb
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\övning 2.1\övning 2.1\bin\Debug\övning 2.1.exe.config
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\övning 2.1\övning 2.1\obj\Debug\övning 2.1.exe
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\övning 2.1\övning 2.1\obj\Debug\övning 2.1.pdb

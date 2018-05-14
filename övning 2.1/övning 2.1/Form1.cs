@@ -17,7 +17,7 @@ namespace övning_2._1
             InitializeComponent();
         }
 
-        private void btnBokReg_Click(object sender, EventArgs e)
+        private void btnBokReg_Click(object sender, EventArgs e) // Vi lägger in boken i biblioteket och förbereder för ny inmatning
         {
             Bok bok = new Bok(tbxBokTitel.Text, Convert.ToInt32(tbxBokSidor.Text));
             lbxBibliotek.Items.Add(bok);

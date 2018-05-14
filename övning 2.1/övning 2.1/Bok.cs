@@ -10,12 +10,12 @@ namespace övning_2._1
     {
         protected int antalSidor = 0;
 
-        public Bok(string titel, int antalSidor) : base(titel)
+        public Bok(string titel, int antalSidor) : base(titel) // Vi kollar bokens titel och antalet sidor
         {
             this.antalSidor = antalSidor;
         }
 
-        public override string ToString()
+        public override string ToString() // Innehållet förbereds för upphämtning
         { 
             return titel + ": " + antalSidor + " sidor"; 
         }

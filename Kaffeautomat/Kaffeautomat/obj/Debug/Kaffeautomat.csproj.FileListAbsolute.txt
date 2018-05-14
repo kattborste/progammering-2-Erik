@@ -7,3 +7,12 @@ S:\PRRPRR02\ELEVMAPPAR\Erik\Projekt kaffeautomat\Kaffeautomat\Kaffeautomat\bin\D
 S:\PRRPRR02\ELEVMAPPAR\Erik\Projekt kaffeautomat\Kaffeautomat\Kaffeautomat\bin\Debug\Kaffeautomat.pdb
 S:\PRRPRR02\ELEVMAPPAR\Erik\Projekt kaffeautomat\Kaffeautomat\Kaffeautomat\obj\Debug\Kaffeautomat.exe
 S:\PRRPRR02\ELEVMAPPAR\Erik\Projekt kaffeautomat\Kaffeautomat\Kaffeautomat\obj\Debug\Kaffeautomat.pdb
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\Kaffeautomat\Kaffeautomat\bin\Debug\Kaffeautomat.exe.config
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\Kaffeautomat\Kaffeautomat\obj\Debug\Kaffeautomat.exe
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\Kaffeautomat\Kaffeautomat\obj\Debug\Kaffeautomat.pdb
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\Kaffeautomat\Kaffeautomat\bin\Debug\Kaffeautomat.exe
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\Kaffeautomat\Kaffeautomat\bin\Debug\Kaffeautomat.pdb
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\Kaffeautomat\Kaffeautomat\obj\Debug\Kaffeautomat.csprojResolveAssemblyReference.cache
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\Kaffeautomat\Kaffeautomat\obj\Debug\Kaffeautomat.Form1.resources
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\Kaffeautomat\Kaffeautomat\obj\Debug\Kaffeautomat.Properties.Resources.resources
+C:\Users\eeriha1\Documents\GitHub\progammering-2-Erik\Kaffeautomat\Kaffeautomat\obj\Debug\Kaffeautomat.csproj.GenerateResource.Cache

@@ -21,7 +21,7 @@ namespace Kaffeautomat
         {
             InitializeComponent();
         }
-        public void Omstart()
+        public void Omstart() // Allting sätts till 0 / töms, programmet "startar om"
         {
             kronor10 = 0;
             kronor5 = 0;
@@ -77,7 +77,7 @@ namespace Kaffeautomat
 
         }
 
-        private void btnKöp_Click(object sender, EventArgs e)
+        private void btnKöp_Click(object sender, EventArgs e) // Vi köper vald dryck
         {
             if (lblServeringDryck.Text != "")
             {
@@ -88,7 +88,7 @@ namespace Kaffeautomat
             }
         }
 
-        private void pbxGlas_Click(object sender, EventArgs e)
+        private void pbxGlas_Click(object sender, EventArgs e) // Vi tar emot drycken och startar om programmet
         {
             if (pbxGlas.Image == fyllt)
             {
@@ -98,7 +98,7 @@ namespace Kaffeautomat
             }
         }
 
-        private void btn10kr_Click(object sender, EventArgs e)
+        private void btn10kr_Click(object sender, EventArgs e) // Ökning utav pengar
         {
             kronor10++;
             summa += 10;
@@ -135,7 +135,7 @@ namespace Kaffeautomat
             
         }
 
-        private void KollaPengar(double pengar, int kostnad, Button button)
+        private void KollaPengar(double pengar, int kostnad, Button button) // Tillräckligt med pengar = knappen aktiverad
         {
             if(pengar >= kostnad)
             {
@@ -147,7 +147,7 @@ namespace Kaffeautomat
             }
         }
 
-        private void KollaAllaDrycker()
+        private void KollaAllaDrycker() // Här ser vi till att vi har råd med diverse drycker
         {
             KollaPengar(summa, Beställning.Kaffe, btnKaffe);
             KollaPengar(summa, Beställning.Kaffelatte, btnKaffelatte);

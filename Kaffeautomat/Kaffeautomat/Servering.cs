@@ -8,7 +8,7 @@ namespace Kaffeautomat
 {
     class Servering
     {
-        public static string HällDryck(string dryck)
+        public static string HällDryck(string dryck) // När drycken tas emot så får vi följande meddelande
         {
             return "Du har tagit emot drycken " + dryck + " och fått " + 
             Convert.ToString(Beställning.RäknaVäxel()) + " kr tillbaks, ha en bra dag!";

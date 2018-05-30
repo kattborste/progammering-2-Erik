@@ -1,0 +1,9 @@
+S:\PRRPRR02\ELEVMAPPAR\Erik\extern kapitel 2\övning 2.8\övning 2.8\bin\Debug\övning 2.8.exe.config
+S:\PRRPRR02\ELEVMAPPAR\Erik\extern kapitel 2\övning 2.8\övning 2.8\obj\Debug\övning 2.8.csprojResolveAssemblyReference.cache
+S:\PRRPRR02\ELEVMAPPAR\Erik\extern kapitel 2\övning 2.8\övning 2.8\obj\Debug\övning_2._8.Form1.resources
+S:\PRRPRR02\ELEVMAPPAR\Erik\extern kapitel 2\övning 2.8\övning 2.8\obj\Debug\övning_2._8.Properties.Resources.resources
+S:\PRRPRR02\ELEVMAPPAR\Erik\extern kapitel 2\övning 2.8\övning 2.8\obj\Debug\övning 2.8.csproj.GenerateResource.Cache
+S:\PRRPRR02\ELEVMAPPAR\Erik\extern kapitel 2\övning 2.8\övning 2.8\bin\Debug\övning 2.8.exe
+S:\PRRPRR02\ELEVMAPPAR\Erik\extern kapitel 2\övning 2.8\övning 2.8\bin\Debug\övning 2.8.pdb
+S:\PRRPRR02\ELEVMAPPAR\Erik\extern kapitel 2\övning 2.8\övning 2.8\obj\Debug\övning 2.8.exe
+S:\PRRPRR02\ELEVMAPPAR\Erik\extern kapitel 2\övning 2.8\övning 2.8\obj\Debug\övning 2.8.pdb
